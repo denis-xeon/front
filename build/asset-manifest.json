@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc542ca5.css",
+    "main.js": "/static/js/main.335109ca.js",
+    "static/media/pr1200.jpg": "/static/media/pr1200.4fe62b07a6b574e1c8fa.jpg",
+    "index.html": "/index.html",
+    "main.fc542ca5.css.map": "/static/css/main.fc542ca5.css.map",
+    "main.335109ca.js.map": "/static/js/main.335109ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc542ca5.css",
+    "static/js/main.335109ca.js"
+  ]
+}
